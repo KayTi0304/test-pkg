@@ -3,5 +3,5 @@ package pkg
 import "fmt"
 
 func log() {
-	fmt.Println("test2")
+	fmt.Println("test")
 }
